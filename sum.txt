@@ -1,4 +1,6 @@
 a=13
 b=21
-sum=a+b
+c=23
+sum=a+b+c
+
 print(sum)
